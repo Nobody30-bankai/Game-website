@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+.Footer {
+ width: 100%;
+ bottom: 0;
+ background: linear-gradient(to right, #00093c,#2d0b00);
+ color:#fff;
+ padding: 40px 0 20px;
+ font-size: 30px;
+ line-height: 15px;
+}
