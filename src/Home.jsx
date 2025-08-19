@@ -7,7 +7,7 @@ import  './Home.css';
 function Home() {
   return (
     <div className="card-container">
-      <Link to="/Tictactoe" className="card">
+      <Link to="/Tictactoe" className="tic">
       <img className='image' src={tictactoe} alt="Tic Tac Toe" />
         <h2 className="title">Tic Tac Toe</h2>
         <p className="text">Play Tic Tac Toe and challenge your friends!</p>

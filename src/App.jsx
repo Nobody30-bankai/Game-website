@@ -1,7 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./header";
 import Footer from "./Footer";
-//import Gameboard from "./Gameboard";
 import Tetris from "./Tetris";
 import Rockpaper from "./Rockpaper";
 import "./Home.css";
